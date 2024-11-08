@@ -25,22 +25,22 @@ sections:
       columns: '1'
 
   - block: markdown
-  content:
-    title: Aims and objectives
-    text: |
-      - Generate a broad awareness of the importance of the FAIR principles, open science and reproducible research in the microbiological community and drive a cultural change toward their widespread adaptation.
-      - Equip the community with the required skills and literacy for efficient and data-driven microbial research by providing a comprehensive training program.
-      - Increase the value of other NFDIs by adding microbial expertise and connecting the national and international microbiology communities.
-      - Improve the research process by mobilizing, structuring and linking available data, information and knowledge related to microorganisms.
-      - Support high-quality research data management by introducing professional data stewards into the microbiological research process.
-      - Increase the value of data by standardizing and systematically collecting rich metadata and building tools for querying.
-      - Make research more reproducible by standardizing data processing and analysis.
-      - Provide computational tools and infrastructure for the translation of data into new knowledge.
-      - Provide central information hubs tailored to address the needs of the microbial research community and its sub-fields.
-      - Continuously adapt the solutions provided to meet the future needs of our microbiology community.
-
-  design:
-    columns: '1'
+    content:
+      title: Aims and objectives
+      text: |
+        - Generate a broad awareness of the importance of the FAIR principles, open science and reproducible research in the microbiological community and drive a cultural change toward their widespread adaptation.
+        - Equip the community with the required skills and literacy for efficient and data-driven microbial research by providing a comprehensive training program.
+        - Increase the value of other NFDIs by adding microbial expertise and connecting the national and international microbiology communities.
+        - Improve the research process by mobilizing, structuring and linking available data, information and knowledge related to microorganisms.
+        - Support high-quality research data management by introducing professional data stewards into the microbiological research process.
+        - Increase the value of data by standardizing and systematically collecting rich metadata and building tools for querying.
+        - Make research more reproducible by standardizing data processing and analysis.
+        - Provide computational tools and infrastructure for the translation of data into new knowledge.
+        - Provide central information hubs tailored to address the needs of the microbial research community and its sub-fields.
+        - Continuously adapt the solutions provided to meet the future needs of our microbiology community.
+  
+    design:
+      columns: '1'
 
   - block: experience
     content:
