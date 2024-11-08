@@ -9,7 +9,6 @@ sections:
   - block: markdown
     content:
       title: What is NFDI4Microbiota?
-      subtitle: 
       text: |
         NFDI4Microbiota is a consortium that is part of the German NFDI (National research Data Infrastructure). The vision of the NFDI4Microbiota consortium is that researchers in microbiology (including bacteriology, virology, protistology, mycology and parasitology) can translate research data easily into a deep understanding of microbial species and their interactions on a molecular level.
 
