@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2024-11-08
+date: 2024-07-24
 type: landing
 
 # TODO change content
@@ -8,39 +8,25 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: What is NFDI4Microbiota?
-      subtitle: 
+      title: What is Todo4NFDI?
+      subtitle: The most needed basic service yet.
       text: |
-        NFDI4Microbiota is a consortium that is part of the German NFDI (National research Data Infrastructure). The vision of the NFDI4Microbiota consortium is that researchers in microbiology (including bacteriology, virology, protistology, mycology and parasitology) can translate research data easily into a deep understanding of microbial species and their interactions on a molecular level.
+        And there's a lot more to discover.
 
     design:
       columns: '1'
 
   - block: markdown
     content:
-      title: Mission
+      title: And what are the details?
       text: |
-        The mission of the NFDI4Microbiota consortium is to be the central hub in Germany for supporting the microbiology community with access to data, analysis services, data/metadata standards and training.
-    
+        Scientific data should in any case follow the [FAIR principles](https://www.go-fair.org/fair-principles/), which promote findability, accessibility, interoperability and re-usability of research data. 
+
+        And here is a video of milk under a microscope, © [Miguel Angel Omaña Rojas CC-BY-SA 4.0](https://commons.wikimedia.org/wiki/File:Milk_under_the_microscope.webm)
+        {{< video src="https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e5/Milk_under_the_microscope.webm/Milk_under_the_microscope.webm.480p.vp9.webm" controls="yes" >}}
+
     design:
       columns: '1'
-
-    - block: markdown
-      content:
-        title: Aims and objectives
-        text: |
-          The aims and objectives of NFDI4Microbiota are:
-
-- Generate a broad awareness of the importance of the FAIR principles, open science and reproducible research in the microbiological community and drive a cultural change toward their widespread adaptation.
-- Equip the community with the required skills and literacy for efficient and data-driven microbial research by providing a comprehensive training program.
-- Increase the value of other NFDIs by adding microbial expertise and connecting the national and international microbiology communities.
-- Improve the research process by mobilizing, structuring and linking available data, information and knowledge related to microorganisms.
-- Support high-quality research data management by introducing professional data stewards into the microbiological research process.
-- Increase the value of data by standardizing and systematically collecting rich metadata and building tools for querying.
-- Make research more reproducible by standardizing data processing and analysis.
-- Provide computational tools and infrastructure for the translation of data into new knowledge.
-- Provide central information hubs tailored to address the needs of the microbial research community and its sub-fields.
-- Continuously adapt the solutions provided to meet the future needs of our microbiology community.
 
   - block: experience
     content:
